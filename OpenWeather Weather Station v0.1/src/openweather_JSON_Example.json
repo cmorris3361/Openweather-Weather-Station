@@ -1,0 +1,46 @@
+{
+   "coord": {
+       "lon": -1.64,
+       "lat": 52.81
+   },
+   "weather": [
+       {
+           "id": 803,
+           "main": "Clouds",
+           "description": "broken clouds",
+           "icon": "04n"
+       }
+   ],
+   "base": "stations",
+   "main": {
+       "temp": 276.2,
+       "feels_like": 274.02,
+       "temp_min": 274.42,
+       "temp_max": 276.58,
+       "pressure": 1028,
+       "humidity": 90,
+       "sea_level": 1028,
+       "grnd_level": 1017
+   },
+   "visibility": 10000,
+   "wind": {
+       "speed": 2.21,
+       "deg": 260,
+       "gust": 2.43
+   },
+   "clouds": {
+       "all": 51
+   },
+   "dt": 1735372519,
+   "sys": {
+       "type": 2,
+       "id": 2041819,
+       "country": "GB",
+       "sunrise": 1735373939,
+       "sunset": 1735401437
+   },
+   "timezone": 0,
+   "id": 2654200,
+   "name": "Burton-on-Trent",
+   "cod": 200
+}
